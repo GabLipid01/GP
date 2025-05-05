@@ -1,14 +1,4 @@
-lipidgenesis/
-├── app.py
-├── blend_calculator.py
-├── data/
-│   ├── profiles.py
-│   └── sensory_esg_data.py
-├── utils/
-│   ├── visualizations.py
-│   ├── esg_tools.py
-│   └── export_pdf.py
-├── requirements.txt
+
 
 # app.py
 
